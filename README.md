@@ -1,2 +1,2 @@
-# Html - Css - Inicio
- Inicio dos estudos em HTML e CSS, futuramente JavaScript
+# Html - Css - JavaScript - Inicio
+ Inicio dos estudos em HTML, CSS e JavaScript
