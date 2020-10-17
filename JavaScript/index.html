@@ -6,20 +6,17 @@
     <title>Testes em JavaScript</title>
 </head>
 <body>
-     <!--Manipulando a DOM-->
+     <!--Manipulando a DOM com eventos inline-->
     <div id="app">
-        <button>Me aperta</button>
+        <button onmouseover="mostraAlerta()">Me aperta</button>
     </div>
 
     <script>
-        function exibeAlgo() {
-            console.log('Hello World')
+        function mostraAlerta() {
+        alert('botão foi clicado')
+
         }
-
     </script>
-
-
-
 
 </body>
 </html>
